@@ -22,8 +22,4 @@ This digital collection features four poems written by Cary Stough at different 
 ## Collection Intention
 This collection intends to give representation to the process of poetry composition, which is often hidden from the view of readers of poetry. Readers of Cary Stough will now be able to consider the process behind the finished poem as integral to their reading of the poet's oeuvre, as well as begin to think about editing as a literary art practice in itself. 
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
 
